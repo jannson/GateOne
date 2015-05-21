@@ -2,3 +2,12 @@
 *.kate-swp
 .DS_Store
 .directory
+cscope.*
+tags
+build
+conf.d
+logs
+sessions
+ssl
+users
+gateone.egg-info

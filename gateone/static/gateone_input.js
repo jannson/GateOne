@@ -161,7 +161,7 @@ GateOne.Base.update(GateOne.Input, {
         //       It *may* be necessary to use these soon so I'm leaving them here just in case...
             'Backspace': 'KEY_BACKSPACE',
             'Tab': 'KEY_TAB',
-            'NumLock': 'KEY_NUM_PAD_CLEAR',
+            //'NumLock': 'KEY_NUM_PAD_CLEAR',
             'Enter': 'KEY_ENTER',
             'ShiftLeft': 'KEY_SHIFT',
             'ShiftRight': 'KEY_SHIFT',
@@ -182,7 +182,7 @@ GateOne.Base.update(GateOne.Input, {
             'ArrowRight': 'KEY_ARROW_RIGHT',
             'ArrowDown': 'KEY_ARROW_DOWN',
             'PrintScreen': 'KEY_PRINT_SCREEN', // Might actually be the code for F13
-            'PrintScreen': 'KEY_PRINT_SCREEN',
+            //'PrintScreen': 'KEY_PRINT_SCREEN',
             'Insert': 'KEY_INSERT',
             'Delete': 'KEY_DELETE',
             'Semicolon': 'KEY_SEMICOLON', // weird, for Safari and IE only
@@ -194,7 +194,7 @@ GateOne.Base.update(GateOne.Input, {
             'NumpadAdd': 'KEY_NUM_PAD_PLUS_SIGN',
             'NumpadSubtract': 'KEY_NUM_PAD_HYPHEN-MINUS', // Strange: Firefox has this the regular hyphen key (i.e. not the one on the num pad)
             'NumpadDecimal': 'KEY_NUM_PAD_FULL_STOP',
-            'Slash': 'KEY_NUM_PAD_SOLIDUS',
+            //'Slash': 'KEY_NUM_PAD_SOLIDUS',
             'NumLock': 'KEY_NUM_LOCK',
             'ScrollLock': 'KEY_SCROLL_LOCK',
             'Subtrac': 'KEY_HYPHEN-MINUS', // No idea why Firefox uses this keycode instead of 189
@@ -202,8 +202,8 @@ GateOne.Base.update(GateOne.Input, {
             'VolumeUp': 'KEY_MEDIA_VOLUME_UP',
             'MediaTrackPrevious': 'KEY_MEDIA_PREVIOUS_TRACK',
             'MediaPlayPause': 'KEY_MEDIA_PLAY_PAUSE',
-            'Semicolon': 'KEY_SEMICOLON',
-            'Equal': 'KEY_EQUALS_SIGN',
+            //'Semicolon': 'KEY_SEMICOLON',
+            //'Equal': 'KEY_EQUALS_SIGN',
             'Comma': 'KEY_COMMA',
             'Subtract': 'KEY_HYPHEN-MINUS',
             'Period': 'KEY_FULL_STOP',
